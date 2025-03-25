@@ -1,0 +1,10 @@
+[
+    {
+        "source": "vitaldata.csproj",
+        "target": "$projectName.csproj"
+    },
+    {
+        "source": "Dockerfile",
+        "target": "Dockerfile"
+    }
+]

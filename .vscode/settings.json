@@ -1,0 +1,31 @@
+{
+  "torizon_psswd": "12345",
+  "torizon_login": "torizon",
+  "torizon_ip": "192.168.8.226",
+  "torizon_ssh_port": "22",
+  "host_ip": "192.168.8.155",
+  "torizon_workspace": "${workspaceFolder}",
+  "torizon_debug_ssh_port": "2222",
+  "torizon_debug_port1": "",
+  "torizon_debug_port2": "",
+  "torizon_debug_port3": "",
+  "torizon_gpu": "-vivante",
+  "torizon_arch": "aarch64",
+  "wait_sync": "1",
+  "torizon_run_as": "torizon",
+  "torizon_app_root": "/home/torizon/app",
+  "docker_tag": "v0.0.0",
+  "tcb.packageName": "vitaldata",
+  "tcb.version": "3.11.0",
+  "torizon.gpuPrefixRC": true,
+  "docker.environment": {
+    "DOCKER_HOST": "tcp://192.168.8.226:2375",
+    "DEBUG_SSH_PORT": "2222",
+    "DEBUG_PORT1": "2222",
+    "DEBUG_PORT2": "2223",
+    "DEBUG_PORT3": "2224"
+  },
+  "docker_login": "Anurag",
+  "docker_registry": "a",
+  "docker_password": "secret"
+}
